@@ -1,3 +1,9 @@
-listas_cursos = ['Python', "Django", "Flask", "Rust", "Ruby", "Java"]
-sub_listas = listas_cursos[1:5]
-print(sub_listas)
+from operator import index
+
+
+lista = [8, 5, 90, 1, 5, 44, 132, 600, 3, 4, 5]
+
+print (5  in lista)
+
+index = lista.index(5)
+print(index)
