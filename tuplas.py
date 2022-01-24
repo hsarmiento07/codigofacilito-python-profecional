@@ -1,7 +1,4 @@
 #             0        1        2          3         4
-from re import U
-
-
 cursos = ('Python', 'Flask', 'Django', 'Raisls', 'MongoDB')
 
 primer_curso = cursos[0]
