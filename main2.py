@@ -1,0 +1,1 @@
+tupla = ('String', 10, 15.4, True)
