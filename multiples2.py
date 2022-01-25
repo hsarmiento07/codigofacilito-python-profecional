@@ -7,4 +7,4 @@ elif calificacion == 9 or calificacion == 8:
 elif calificacion == 7 or calificacion == 6:
     print('aprobaste la materia')
 else:
-    print('Reprobaste la marteria')
+    print('Reprobaste la materia')
